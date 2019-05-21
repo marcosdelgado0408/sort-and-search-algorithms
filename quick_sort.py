@@ -37,12 +37,6 @@ def quicksort(vetor, inicio, fim):
 
 
 
-
-
-
-
-
-
 vetor = [2,1,96,24,107,20,15,32,54,45]
 
 
