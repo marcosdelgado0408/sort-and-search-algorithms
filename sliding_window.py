@@ -1,3 +1,5 @@
+#utilizei quicksiort para ordenar o vetor e utilizar a sliding window 
+
 def particionar(vetor, inicio, fim):
     i = inicio # esquerda do vetor
     j = fim # direita do vetor
